@@ -1,0 +1,27 @@
+#links{
+    text-align: right;
+  
+   
+}
+#navbar{
+    background-color: #ffffff;
+    min-height: 10vh;
+    border-bottom:2px solid #cccccc;
+}
+.myName{
+    
+}
+
+#myFooter{
+    height: 80px;
+    background-color:#666666;
+    border-top: 15px solid #4aaaa5;
+    min-height: 8vh;
+    text-align: center;
+}
+#mainContent{
+    min-height: 82vh;
+}
+ body {
+     background-color: lightgray;
+ }
