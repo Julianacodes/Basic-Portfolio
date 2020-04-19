@@ -141,11 +141,6 @@ h3, h2 {
     border: 1px solid #dddddd;
 }
 
-#links{
-    align-self: center;
-    width: 200px;
-}
-
 button:hover{
      background-color:#4aaaa5;
 }
